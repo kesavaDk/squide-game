@@ -1,0 +1,69 @@
+.green {
+  background-color: rgb(148, 247, 0) !important;
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+}
+.restart-button{
+  background-color: greenyellow;
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  margin-top: 10px;
+  
+
+}
+
+.red{
+  background-color:red!important;
+  height: 200px;
+  width: 200px;
+}
+.form-container{
+  
+  padding: 5px;
+  background-color: rgb(95, 148, 30);
+  border-radius: 5px;
+  padding-left: 15px;
+}
+.form-button{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+  margin-top:10px ;
+}
+.game-over-container{
+  background-color: rgb(0, 234, 255);
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#f70909;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.game-win{
+  background-color: rgb(0, 255, 174);
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#f70909;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+label{
+  color:#ffff;
+}
+input{
+  padding: 8px;
+  border-radius: 10px;
+  border: none;
+  margin-top:5px;
+
+}
